@@ -1,5 +1,7 @@
 # Face_recogniation using python
 
+GUI Based Project
+
 Prerequisite Python Modules
 
 1.PyQt5
